@@ -7,7 +7,7 @@ Muito além da criação de gráficos, o objetivo central deste projeto foi atua
 
 ## 📂 Fonte de Dados
 Para a elaboração deste projeto, foi utilizado o dataset:
-* **dados_marketing.csv**: Um arquivo transacional bruto contendo informações demográficas dos clientes, registros de compras e histórico de interações com campanhas de marketing. 
+* **dados_marketing.csv**: Um arquivo transacional bruto contendo informações demográficas dos clientes, registros de compras e histórico de interações com campanhas de marketing.  
 
 O arquivo passou por um processo rigoroso de limpeza e transformação no **Power Query** para garantir a integridade das análises e a criação das métricas dinâmicas em DAX.
 
@@ -31,8 +31,16 @@ O desenvolvimento também englobou o tratamento de dados no Power Query e a cria
 ## 📸 Visualização do Projeto
 
 **1. Visão Cliente:**
+<img width="1252" height="703" alt="photo1" src="https://github.com/user-attachments/assets/2b916ae1-6651-446e-9811-d6bed223a65b" />
+
 **2. Visão Comportamento de Compra:**
+<img width="1252" height="705" alt="photo02" src="https://github.com/user-attachments/assets/94075b75-1e08-4d8a-b078-65c27fa502c7" />
+
 **3. Visão da Performance das Campanhas:**
+<img width="1249" height="703" alt="photo3" src="https://github.com/user-attachments/assets/7ba98f0e-442b-472d-a35c-50a0a4d01e67" />
+
 **4. Visão dos Padrões por Ponto de Venda:**
+<img width="1250" height="703" alt="photo4" src="https://github.com/user-attachments/assets/8e5194bc-fc17-4039-8df6-cfbc6e63cc1b" />
+
 ---
 *Desenvolvido por Michel Urban Rosendo de Lima.*
