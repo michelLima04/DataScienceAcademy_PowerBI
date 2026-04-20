@@ -31,4 +31,4 @@ Com o modelo de dados consolidado, o dashboard interativo foi projetado para res
 <img width="364" height="224" alt="arquivos" src="https://github.com/user-attachments/assets/84499c51-e28b-445c-9122-3a78ca9b1f43" />
 
 ---
-*Desenvolvido por Michel.*
+*Desenvolvido por Michel Urban Rosendo de Lima.*
