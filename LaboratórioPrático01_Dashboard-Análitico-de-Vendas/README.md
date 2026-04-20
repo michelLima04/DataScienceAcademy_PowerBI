@@ -28,6 +28,6 @@ Dessa forma, a visualização se adapta instantaneamente à necessidade analíti
 <img width="1919" height="699" alt="dataset" src="https://github.com/user-attachments/assets/76ff67ba-d340-4708-a247-f5e10f31c0e8" />
 
 ---
-*Desenvolvido por Michel.*
+*Desenvolvido por Michel Urban Rosendo de Lima.*
 
 
