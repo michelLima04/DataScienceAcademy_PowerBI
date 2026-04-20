@@ -2,8 +2,6 @@
 
 Olá! Bem-vindo ao meu repositório de B.I. e Análise de Dados. 
 
-Meu nome é **Michel Urban Rosendo de Lima** e sou estudante de Análise e Desenvolvimento de Sistemas na **Pontifícia Universidade Católica do Paraná (PUCPR)**. Tenho trilhado um caminho focado em extrair inteligência e valor a partir de informações brutas, aprimorando minhas habilidades lógicas em bancos de dados e explorando o ecossistema de dados com SQL, Excel, B.I. Python.
-
 ## 🎯 Sobre Este Repositório
 Este repositório documenta a minha evolução e os laboratórios práticos desenvolvidos durante o curso **Microsoft Power BI Para Business Intelligence e Data Science** da plataforma **Data Science Academy**. 
 
