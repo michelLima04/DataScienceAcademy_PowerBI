@@ -1,6 +1,4 @@
-# 📊 Portfólio de Projetos: Business Intelligence e Data Science
-
-Olá! Bem-vindo ao meu repositório de B.I. e Análise de Dados. 
+# 📊 Portfólio do Curso: Microsoft Power BI Para Business Intelligence e Data Science
 
 ## 🎯 Sobre Este Repositório
 Este repositório documenta a minha evolução e os laboratórios práticos desenvolvidos durante o curso **Microsoft Power BI Para Business Intelligence e Data Science** da plataforma **Data Science Academy**. 
