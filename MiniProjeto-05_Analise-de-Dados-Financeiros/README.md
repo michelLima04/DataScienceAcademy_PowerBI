@@ -29,7 +29,8 @@ O painel financeiro foi estruturado para responder com exatidão às seguintes n
 6. **(IA)** Quais são os segmentos ocultos onde a probabilidade do valor financeiro ser baixo/alto é maior?
 
 ## 📸 Visualização do Projeto
-<img width="1240" height="700" alt="img_MiniProjeto05" src="https://github.com/user-attachments/assets/7e7f8006-1b3c-4328-a974-ec6ced0beaab" />
+<img width="1281" height="716" alt="mini-projeto05-img" src="https://github.com/user-attachments/assets/04e9bf32-cab0-406e-abf1-ef171e498795" />
+
 
 ---
 *Desenvolvido por Michel Urban Rosendo de Lima.*
